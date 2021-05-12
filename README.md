@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning ... React, JS, Redux, etc...
 - 👯 I’m open to collaborate on ... open source Utah based projects
 - 💬 Ask me about ... my favorite sci-fi novels, tv shows, movies
-- 📫 How to reach me: ... DM me on Twitter or <link src="https://www.instagram.com/ryanmersmann/">Instagram</link>
+- 📫 How to reach me: ... DM me on Twitter or [Instagram](https://www.instagram.com/ryanmersmann/)
 - ⚡ Fun fact: ... I am fluent in Korean!
 
