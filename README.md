@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... React, JS, Redux, etc...
 - 👯 I’m open to collaborate on ... open source Utah based projects
 - 💬 Ask me about ... my favorite sci-fi novels, tv shows, movies
-- :kr: Fun fact: ... I am fluent in Korean!
+- ⚡ Fun fact: ... I am fluent in Korean!
 
 ### Find me all around the web:
 - [Twitter](https://www.twitter.com/Ryan_Mersmann)
