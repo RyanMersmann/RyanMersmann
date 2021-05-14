@@ -2,7 +2,7 @@
 
 - 🏢 I'm currently looking for my first job as a Full Stack Developer!
 - 🔭 I’m currently working on Story Squad as a Full Stack Developer
-- 🌱 I’m currently learning React, JS, Redux, etc...
+- 🌱 I’m currently learning React, JS, Redux, Python, Java, C#
 - 👯 I’m open to collaborate on open source Utah based projects
 - 💬 Ask me about my favorite sci-fi novels, tv shows, movies
 - ⚡ Fun fact: I am fluent in Korean!
